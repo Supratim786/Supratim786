@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Supratim Biswas, a fresh B.Tech graduate.
+- 👋 Hi there, I’m Supratim Biswas.
 - 👀 I’m interested in programming and doing projects on ML/AI and others.
 - 👨‍💻 Programming knowledge that I possess are C, C++, Python, Java & MySQL.
 - 🌱 I’m currently learning new technologies like ML/AI etc.
